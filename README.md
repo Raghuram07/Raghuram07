@@ -18,11 +18,15 @@ hi, i'm [Raghuram reddy], a passionate self-taught full stack web developer with
 - 💼 any freelance work? do reach, [email](mailto:raghuramreddy2599@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
+
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png"></code>
+<code><img height="20" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"></code>
 
 
 
