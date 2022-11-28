@@ -30,6 +30,7 @@ hi, i'm [Raghuram reddy], a passionate self-taught full stack web developer with
 <code><img height="20" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/2x/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-filled-tal-revivo.png"></code>
 <code><img height="20" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/postgreesql.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/2x/c-sharp-logo.png"></code>
 
 
 
