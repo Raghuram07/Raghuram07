@@ -1,4 +1,4 @@
-### hey there https://raghuram07.github.io/
+### hey there http://raghuram07.com
 <a href="https://www.instagram.com/raghuram_damarancha/">
   <img align="left" alt="Raghurams's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
