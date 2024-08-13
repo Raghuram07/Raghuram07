@@ -1,4 +1,4 @@
-### Hey there, you can look at my portfolio here  https://www.raghuram07.com
+### Hey there, you can look at my portfolio here  raghuram07.com
 <a href="https://www.instagram.com/raghuram_damarancha/">
   <img align="left" alt="Raghurams's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
