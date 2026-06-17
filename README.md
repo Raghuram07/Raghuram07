@@ -3,12 +3,11 @@ Hey there! Check out my portfolio at https://www.raghuram07.com/
 <a href="https://www.linkedin.com/in/raghuram-reddy-damarancha-074564149/"><img align="left" alt="Raghuram's LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /></a>
 <br />
 
-Hi, I'm **Raghuram Reddy** — a Full-Stack Software Engineer with 4+ years of experience building cloud-native applications on AWS and the .NET/React stack. I specialize in scalable backend systems, AI-powered SaaS products, and modern frontend development. Currently building **RavenLens**, a multi-tenant meeting intelligence platform powered by RAG and AWS Bedrock.
+Hi, I'm **Raghuram Reddy** a Full-Stack Software Engineer with 4+ years of experience building cloud-native applications on AWS and the .NET, Java, and React stack. I specialize in scalable backend systems, AI-powered SaaS products, and modern frontend development. Currently building **RavenLens**, a multi-tenant meeting intelligence platform powered by RAG and AWS Bedrock.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 💼 Open to new opportunities — feel free to [reach out](mailto:raghuramreddy2119@gmail.com)
-- 🤖 Currently building with AWS Bedrock, pgvector & FastAPI
 - 💬 Happy to talk shop about AWS, .NET Core, React, or GenAI/RAG systems
 
 ---
