@@ -12,60 +12,11 @@ Hi, I'm **Raghuram Reddy** a Full-Stack Software Engineer with 4+ years of exper
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Raghuram07/RavenLense">🧠 RavenLens</a></h3>
-      <p>AI-powered meeting intelligence SaaS. Ingests transcripts and generates summaries, MOMs & action items using RAG over AWS Bedrock (Claude Sonnet) and pgvector.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://raghuram07.github.io/">📹 Video Chat Platform</a></h3>
-      <p>Real-time peer-to-peer video calling with sub-500ms latency. WebRTC + WebSocket-based group chat supporting 50+ concurrent users during live sessions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 Secure File Storage</h3>
-      <p><em>Coming soon — link & description will be added.</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>➕ 4th Project</h3>
-      <p><em>Coming soon.</em></p>
-    </td>
-  </tr>
-</table>
+- 🧠 **[RavenLens](https://github.com/Raghuram07/RavenLense)** — AI-powered meeting intelligence SaaS. Ingests transcripts and generates summaries, MOMs & action items using RAG over AWS Bedrock (Claude Sonnet) and pgvector.
 
----
-
-## 📁 Other Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Project Name</h3>
-      <p>Description here. Add your repo link above.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Project Name</h3>
-      <p>Description here. Add your repo link above.</p>
-    </td>
-  </tr>
-</table>
+- 📹 **[Video Chat Platform](https://raghuram07.github.io/)** — Real-time peer-to-peer video calling with sub-500ms latency. WebRTC + WebSocket-based group chat supporting 50+ concurrent users during live sessions.
 
 ---
 
