@@ -11,13 +11,11 @@ Hi, I'm **Raghuram Reddy** a Full-Stack Software Engineer with 4+ years of exper
 - 💬 Happy to talk shop about AWS, .NET Core, React, or GenAI/RAG systems
 
 ---
+## 🚀 Featured Projects
 
-## 🚀 Projects
+- 🧠 **[RavenLens](https://github.com/Raghuram07/RavenLense)** — AI-powered meeting intelligence SaaS. Ingests transcripts and generates summaries, MOMs & action items using RAG over AWS Bedrock (Claude Sonnet) and pgvector. | [🌐 Live](https://raven-lense.vercel.app/)
 
-- 🧠 **[RavenLens](https://github.com/Raghuram07/RavenLense)** — AI-powered meeting intelligence SaaS. Ingests transcripts and generates summaries, MOMs & action items using RAG over AWS Bedrock (Claude Sonnet) and pgvector.
-
-- 📹 **[Video Chat Platform](https://raghuram07.github.io/)** — Real-time peer-to-peer video calling with sub-500ms latency. WebRTC + WebSocket-based group chat supporting 50+ concurrent users during live sessions.
-
+- 📹 **[Video Chat Platform](https://github.com/Raghuram07/Video-chat)** — Real-time peer-to-peer video calling with sub-500ms latency. WebRTC + WebSocket-based group chat supporting 50+ concurrent users during live sessions. | [🌐 Live](https://raghuram07.github.io/)
 ---
 
 ## 🛠️ Languages & Tools
